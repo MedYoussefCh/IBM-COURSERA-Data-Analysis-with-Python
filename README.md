@@ -1,4 +1,4 @@
-# IBM_Coursera_Data-Analysis-with-Python---Project
+# Data Analysis with Python - final assignment
 
 ## House Sales in King County, USA
 
